@@ -5,6 +5,11 @@
 ## a link to the deployed website and github code can be found here.
 https://michaelfame.github.io/html-refactoring/
 
+## github repository
+
+git@github.com:michaelfame/html-refactoring.git or 
+https://github.com/michaelfame/html-refactoring.git
+
 
 ### Description 
 
